@@ -1,0 +1,5 @@
+C:\Users\Michael\Documents\CODE\GitLabActivity\obj\Debug\net10.0\GitLabActivity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michael\Documents\CODE\GitLabActivity\obj\Debug\net10.0\GitLabActivity.AssemblyInfoInputs.cache
+C:\Users\Michael\Documents\CODE\GitLabActivity\obj\Debug\net10.0\GitLabActivity.AssemblyInfo.cs
+C:\Users\Michael\Documents\CODE\GitLabActivity\obj\Debug\net10.0\GitLabActivity.csproj.CoreCompileInputs.cache
+C:\Users\Michael\Documents\CODE\GitLabActivity\obj\Debug\net10.0\GitLabActivity.sourcelink.json
